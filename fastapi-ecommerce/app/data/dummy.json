@@ -1,0 +1,142 @@
+[
+    {
+        "id": "6c7b7c69-f07f-4474-992e-58d3c48ac437",
+        "sku": "REAL-135GB-002",
+        "name": "Realme Model Air",
+        "description": "Official Realme product with manufacturer warranty",
+        "category": "electronics",
+        "brand": "Realme",
+        "price": 18249.0,
+        "currency": "INR",
+        "discount_percent": 10,
+        "stock": 47,
+        "is_active": true,
+        "rating": 4.6,
+        "tags": [
+            "gaming",
+            "5g",
+            "camera"
+        ],
+        "image_urls": [
+            "https://cdn.example.com/realme/front.png",
+            "https://cdn.example.com/realme/back.png"
+        ],
+        "dimensions_cm": {
+            "length": 24.0,
+            "width": 22.3,
+            "height": 2.8
+        },
+        "seller": {
+            "seller_id": "5ff1519e-b952-4315-9151-c94b938123c9",
+            "name": "Realme Official",
+            "email": "support@realmeofficial.in",
+            "website": "https://www.realmeofficial.in"
+        },
+        "created_at": "2025-05-12T00:00:00Z"
+    },
+    {
+        "id": "394d40e7-2a95-445d-8738-c6af6be5a97e",
+        "sku": "SAMS-225GB-003",
+        "name": "Samsung Model Max",
+        "description": "Official Samsung product with manufacturer warranty",
+        "category": "mobiles",
+        "brand": "Samsung",
+        "price": 92264.0,
+        "currency": "INR",
+        "discount_percent": 20,
+        "stock": 47,
+        "is_active": true,
+        "rating": 4.5,
+        "tags": [
+            "5g",
+            "tablet",
+            "phone"
+        ],
+        "image_urls": [
+            "https://cdn.example.com/samsung/front.png",
+            "https://cdn.example.com/samsung/back.png"
+        ],
+        "dimensions_cm": {
+            "length": 16.4,
+            "width": 20.3,
+            "height": 1.9
+        },
+        "seller": {
+            "seller_id": "6e3a2dfd-4c0d-4938-98b1-f91be25e6558",
+            "name": "Samsung India",
+            "email": "support@samsungindia.in",
+            "website": "https://www.samsungindia.in"
+        },
+        "created_at": "2025-09-12T00:00:00Z"
+    },
+    {
+        "id": "0e4bfdd3-427b-4c4f-8d20-559c7bc45855",
+        "sku": "XIAO-359GB-789",
+        "name": "Xiaomi Model Pro",
+        "description": "string",
+        "category": "mobiles",
+        "brand": "Xiaomi",
+        "price": 1849.0,
+        "currency": "INR",
+        "discount_percent": 30,
+        "stock": 5,
+        "is_active": true,
+        "rating": 5.0,
+        "tags": [
+            "string"
+        ],
+        "image_urls": [
+            "https://example.com/"
+        ],
+        "dimensions_cm": {
+            "length": 1.0,
+            "width": 1.0,
+            "height": 1.0
+        },
+        "seller": {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "name": "Mi Store",
+            "email": "user@hpworld.in",
+            "website": "https://example.com/"
+        },
+        "created_at": "2026-04-06T20:05:26.404855z",
+        "final_price": 1294.3,
+        "volume": 1.0
+    },
+    {
+        "id": "e49ac0ff-ff31-40c3-af64-2e695bce2e01",
+        "sku": "XIAO-359GB-788",
+        "name": "Xiaomi Model Pro",
+        "description": "string",
+        "category": "mobiles",
+        "brand": "Xiaomi",
+        "price": 1456.0,
+        "currency": "INR",
+        "discount_percent": 45,
+        "stock": 5,
+        "is_active": true,
+        "rating": 5.0,
+        "tags": [
+            "mobile",
+            "china"
+        ],
+        "image_urls": [
+            "https://example.com/"
+        ],
+        "dimensions_cm": {
+            "length": 53.0,
+            "width": 1.0,
+            "height": 1.0
+        },
+        "seller": {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "name": "Mi Store",
+            "email": "user@hpworld.in",
+            "website": "https://example.com/"
+        },
+        "created_at": "2026-04-06T20:10:00.948241z",
+        "final_price": 800.8,
+        "volume": 53.0,
+        "volume_cm3": 53.0
+    }
+]
