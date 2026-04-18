@@ -1,10 +1,10 @@
 from fastapi import FastAPI,HTTPException,Query,Path
-from service.products import get_all_products,add_product,remove_product,change_product
+from fastapi_ecommerce.app.service.products import get_all_products,add_product,remove_product,change_product
 app=FastAPI()
 from datetime import datetime
 from uuid import UUID,uuid4
 
-from schema.product import Product,ProductUpdate
+from fastapi_ecommerce.app.schema.product import Product,ProductUpdate
 @app.get("/")
 def welcome():
     return "welcome"
