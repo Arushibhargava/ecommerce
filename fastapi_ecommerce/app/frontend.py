@@ -3,7 +3,7 @@ import requests
 import uuid
 from datetime import datetime
 
-BASE_URL = "http://127.0.0.1:8000/products"
+BASE_URL = "https://ecommerce-cvej.onrender.com/products"
 
 st.set_page_config(page_title="Product CRUD App", layout="wide")
 st.title("🛒 Product Management System")
